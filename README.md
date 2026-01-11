@@ -1,4 +1,3 @@
-<src="https://github.com/user-attachments/assets/e997ce85-01ba-4dee-a320-19f64f750b1d" /># VietAI_-Machine-Learning-Detect-Pests-On-Plants
 Báo cáo cuối khóa F0ML-09
 # Machine Learning phát hiện côn trùng gây hại
 
